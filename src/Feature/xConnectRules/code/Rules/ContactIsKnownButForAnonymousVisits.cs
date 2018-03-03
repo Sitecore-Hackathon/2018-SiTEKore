@@ -49,9 +49,8 @@ namespace Sitecore.Feature.xConnectRules.Rules
 
                 // Convert the Cookie value to Guid
 
-               //  Guid contactid = Guid.Parse(cookieValue);
-                // Guid contactid = new Guid("{65AA0E98-D0C2-0000-0000-053646B47C6B}");
-                Guid contactid = new Guid("{e2cfc705-1585-0000-0000-053716f950bd}");
+                 Guid contactid = Guid.Parse(cookieValue);
+                
 
                 // Get the Contact using Golable Cookie
 
