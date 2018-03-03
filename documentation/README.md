@@ -23,7 +23,7 @@ Two ways of installation:
 
 **II. Using Sitecore Package**
 
-1. Use the Sitecore Installation wizard to install the [package](#https://drive.google.com/open?id=12Nvm1Y0GR59S3ku1X-lTqdvPnKnszDak)
+1. Use the Sitecore Installation wizard to install the [package](https://drive.google.com/open?id=12Nvm1Y0GR59S3ku1X-lTqdvPnKnszDak "SiTEKcore Install Package") 
 2. Configure
 3. Profit
 
@@ -42,6 +42,9 @@ Two ways of installation:
 3. Open a page in Experience Editor
 4. Personalize component 
 5. Add a rule
+5. Add a rule
+5. Add a rule
+5. Add a ru
 ![Add TEKconnect Rule](images/doc1.png?raw=true "Add TEKconnect Rule")
     1. Scroll down to TEKonnect Rules Group
     2. Click on Rule - where the sepcific goal was triggered and where the specific  page has been visited
