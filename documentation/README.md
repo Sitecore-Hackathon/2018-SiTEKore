@@ -1,28 +1,30 @@
 # Documentation
 
-The documentation for this years Hackathon must be provided as a readme in Markdown format as part of your submission. 
-
-You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
-
-Examples of things to include are the following.
-
 ## Summary
 
-**Category:** Hackathon Category
+**Category:** XConnect
 
-What is the purpose of your module? What problem does it solve and how does it do that?
+The purpose of this module is to add extended personalisation rules based on Experience Database data:
+- Do a personalization based on Goals Triggered on a specific page
+- Do a personalization on anonymous visit when users can be identified by his cookie
 
 ## Pre-requisites
 
 Does your module rely on other Sitecore modules or frameworks?
 
-- List any dependencies
-- Or other modules that must be installed
-- Or services that must be enabled/configured
+- Sitecore Helix running on Sitecore 9.0 Update 1 (Optional. Required for a demo)
 
 ## Installation
 
-Provide detailed instructions on how to install the module, and include screenshots where necessary.
+Two ways of installation:
+
+**I. Using Visual Studio** 
+1. Open solution Hackathon.Boilerplate.sln
+2. Edit gulp-config.js file
+3. Edit publishsettings.targets file
+4. Run Default taskin Task Runner Explorer
+
+**Using Sitecore Package**
 
 1. Use the Sitecore Installation wizard to install the [package](#link-to-package)
 2. ???
