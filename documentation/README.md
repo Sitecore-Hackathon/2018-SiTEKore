@@ -57,20 +57,11 @@ Remember you are using Markdown, you can provide code samples too:
 4. Personalize component 
 5. Add a rule
 ![Add TEKconnect Rule](images/doc1.png?raw=true "Add TEKconnect Rule")
-
-Provide documentation  about your module, how do the users use your module, where are things located, what do icons mean, are there any secret shortcuts etc.
-
-Please include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
-
-![Hackathon Logo](images/hackathon.png?raw=true "Hackathon Logo")
-
-You can embed images of different formats too:
-
-![Deal With It](images/deal-with-it.gif?raw=true "Deal With It")
-
-And you can embed external images too:
-
-![Random](https://placeimg.com/480/240/any "Random")
+    1. Scroll down to TEKonnect Rules Group
+    2. Click on Rule - where the sepcific goal was triggered and where the specific  page has been visited
+    3. Select goal
+    4. Select page
+    5. Click OK 
 
 ## Video
 
