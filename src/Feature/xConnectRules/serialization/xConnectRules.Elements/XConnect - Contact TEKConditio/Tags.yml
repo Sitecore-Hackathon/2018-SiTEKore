@@ -1,0 +1,18 @@
+﻿---
+ID: "fff5507e-0628-41a8-8649-eb55aa775830"
+Parent: "2375ff81-950d-41d2-8c7c-b3f9e2999378"
+Template: "96c8e5dd-63c3-496b-a97c-a3e37e1dacba"
+Path: "/sitecore/system/Settings/Rules/Definitions/Elements/XConnect - Contact TEKConditions/Tags"
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{FD4268C6-E588-4C19-B141-B1AAD488887D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180220T124544Z
