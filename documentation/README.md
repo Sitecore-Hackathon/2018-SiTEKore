@@ -51,6 +51,12 @@ Remember you are using Markdown, you can provide code samples too:
 ```
 
 ## Usage
+1. Create new Goal
+2. Deploy new Goal
+3. Open a page in Experience Editor
+4. Personalize component 
+5. Add a rule
+![Add TEKconnect Rule](images/doc1.png?raw=true "Add TEKconnect Rule")
 
 Provide documentation  about your module, how do the users use your module, where are things located, what do icons mean, are there any secret shortcuts etc.
 
