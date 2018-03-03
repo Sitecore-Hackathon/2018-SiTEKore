@@ -26,8 +26,13 @@ Two ways of installation:
 
 **Using Sitecore Package**
 
-1. Use the Sitecore Installation wizard to install the [package](#link-to-package)
-2. ???
+1. Use the Sitecore Installation wizard to install the [package](#https://drive.google.com/open?id=12Nvm1Y0GR59S3ku1X-lTqdvPnKnszDak)
+2. ![Add TEKconnect Rule to Conditional Renderings](images/doc2.png?raw=true "Add TEKconnect Rule to Conditional Renderings")
+    1. Open /sitecore/system/Settings/Rules in Content Editor
+    2. Navigate to Conditional Renderings
+    3. Navigate to Tags/Default
+    4. In Tags Field Select XConnect -TEKConditions
+    4.Save
 3. Profit
 
 ## Configuration
