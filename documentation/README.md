@@ -9,9 +9,6 @@ The purpose of this module is to add extended personalisation rules based on Exp
 - Do a personalization on anonymous visit when users can be identified by his cookie
 
 ## Pre-requisites
-
-Does your module rely on other Sitecore modules or frameworks?
-
 - Sitecore Helix running on Sitecore 9.0 Update 1 (Optional. Required for a demo)
 
 ## Installation
@@ -24,36 +21,20 @@ Two ways of installation:
 3. Edit publishsettings.targets file
 4. Run Default taskin Task Runner Explorer
 
-**Using Sitecore Package**
+**II. Using Sitecore Package**
 
 1. Use the Sitecore Installation wizard to install the [package](#https://drive.google.com/open?id=12Nvm1Y0GR59S3ku1X-lTqdvPnKnszDak)
-2. ![Add TEKconnect Rule to Conditional Renderings](images/doc2.png?raw=true "Add TEKconnect Rule to Conditional Renderings")
-    1. Open /sitecore/system/Settings/Rules in Content Editor
-    2. Navigate to Conditional Renderings
-    3. Navigate to Tags/Default
-    4. In Tags Field Select XConnect -TEKConditions
-    4.Save
+2. Configure
 3. Profit
 
 ## Configuration
 
-How do you configure your module once it is installed? Are there items that need to be updated with settings, or maybe config files need to have keys updated?
-
-Remember you are using Markdown, you can provide code samples too:
-
-```xml
-<?xml version="1.0"?>
-<!--
-  Purpose: Configuration settings for my hackathon module
--->
-<configuration xmlns:patch="http://www.sitecore.net/xmlconfig/">
-  <sitecore>
-    <settings>
-      <setting name="MyModule.Setting" value="Hackathon" />
-    </settings>
-  </sitecore>
-</configuration>
-```
+ ![Add TEKconnect Rule to Conditional Renderings](images/doc2.png?raw=true "Add TEKconnect Rule to Conditional Renderings")
+    1. Open /sitecore/system/Settings/Rules in Content Editor
+    2. Navigate to Conditional Renderings
+    3. Navigate to Tags/Default
+    4. In Tags Field Select XConnect -TEKConditions
+    5.Save
 
 ## Usage
 1. Create new Goal
